@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="common_padding">15dp</dimen>
+    <dimen name="big_common_padding">30dp</dimen>
+    <dimen name="header_view_text_size">15sp</dimen>
+    <dimen name="first_level_text_size">16sp</dimen>
+    <dimen name="second_level_title_text_size">15sp</dimen>
+    <dimen name="second_level_content_text_size">14sp</dimen>
+</resources>

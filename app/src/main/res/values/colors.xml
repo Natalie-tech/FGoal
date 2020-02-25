@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#33CC99</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="divider">#AAAAAA</color>
+    <color name="first_level_title_text_color">#FF777777</color>
+    <color name="second_level_title_text_color">#FF777777</color>
+    <color name="common_gray">#EEEEEE</color>
+    <color name="header_view_bg">#33CC99</color>
+</resources>
